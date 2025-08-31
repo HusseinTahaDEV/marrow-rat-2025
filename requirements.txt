@@ -1,0 +1,34 @@
+# Marrow RAT 2025 - Requirements
+# Core Dependencies for Remote Access Tool
+
+# Telegram Bot Framework
+python-telegram-bot>=21.0.1
+
+# Task Scheduling & Timezone Support
+APScheduler>=3.10.4
+pytz>=2024.1
+
+# System Information & Process Management
+psutil>=5.9.0
+
+# Image Processing & Screenshots
+Pillow>=10.0.0
+
+# Webcam & Video Capture
+opencv-python>=4.8.0
+
+# HTTP Requests & Networking
+requests>=2.31.0
+
+# Build & Compilation Tools
+PyInstaller>=6.0.0
+nuitka>=2.0.0
+
+# Optional: Enhanced Features
+colorama>=0.4.6       # Terminal colors (for builder output)
+cryptography>=41.0.0  # Additional security features
+
+# Development Dependencies (optional)
+# pytest>=7.4.0       # Testing framework
+# black>=23.0.0        # Code formatting
+# flake8>=6.0.0        # Code linting

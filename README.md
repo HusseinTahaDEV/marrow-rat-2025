@@ -1,6 +1,6 @@
 # 🔴 Marrow RAT 2025
 ## Advanced Telegram Remote Access Tool
-![marrow-rat-2025-Logo](https://raw.githubusercontent.com/HusseinTahaDEV/marrow-rat-2025/screenshotPNG).
+![marrow-rat-2025-Logo](https://raw.githubusercontent.com/HusseinTahaDEV/marrow-rat-2025/screenshot.png).
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://microsoft.com/windows)
@@ -312,3 +312,4 @@ Stay ethical. Stay legal. Stay safe.
 
 
 *Last updated: August 31, 2025*
+

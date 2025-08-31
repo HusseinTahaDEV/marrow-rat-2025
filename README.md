@@ -80,7 +80,7 @@ THE LEGAL IMPLICATIONS AND AGREE TO USE IT RESPONSIBLY.
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/marrow-rat-2025
+git clone https://github.com/HusseinTahaDEV/marrow-rat-2025
 cd marrow-rat-2025
 
 # 2. Install dependencies
@@ -312,5 +312,6 @@ Stay ethical. Stay legal. Stay safe.
 
 
 *Last updated: August 31, 2025*
+
 
 

@@ -57,8 +57,8 @@ from telegram.ext import (
 )
 
 # === CONFIGURATION ===
-TOKEN = "7756974263:AAFY_gKHbaTJLOFIYvm91y5Tae7t1TGsvm8"
-OWNER_CHAT_IDS = [6110322694]  # list of integers, e.g. [123456789]
+TOKEN = "TOKEN"
+OWNER_CHAT_IDS = [USER_ID]  # list of integers, e.g. [123456789]
 
 CONFIG_FILE = "agent_config.json"
 DEVICE_ID_FILE = "device_id.txt"
@@ -628,3 +628,4 @@ if __name__ == "__main__":
         print("\nAgent stopped by user.")
     except Exception as e:
         print(f"Agent stopped due to error: {e}")
+

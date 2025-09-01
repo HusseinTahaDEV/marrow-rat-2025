@@ -154,11 +154,11 @@ class MarrowBuilder:
             
             # Replace configuration
             content = content.replace(
-                'TOKEN = "7756974263:AAFY_gKHbaTJLOFIYvm91y5Tae7t1TGsvm8"',
+                'TOKEN = "TOKEN"',
                 f'TOKEN = "{token}"'
             )
             content = content.replace(
-                'OWNER_CHAT_IDS = [6110322694]',
+                'OWNER_CHAT_IDS = [USER_ID]',
                 f'OWNER_CHAT_IDS = {all_users}'
             )
             
@@ -714,4 +714,5 @@ Examples:
         return 1
 
 if __name__ == "__main__":
+
     sys.exit(main())
